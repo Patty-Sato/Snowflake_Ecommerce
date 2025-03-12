@@ -8,7 +8,7 @@ Este projeto apresenta um modelo dimensional Snowflake desenvolvido para o Data 
 A iniciativa visa permitir a análise de desempenho da logística de entregas com base nas avaliações dos clientes, otimizando a qualidade da entrega, pontualidade e cordialidade dos entregadores.
 
 
-O modelo foi construído a partir de uma tabela achatada (flattened table) fornecida pela empresa, contendo informações sobre pedidos, clientes, localizações e avaliações. 
+O modelo foi construído no Oracle Data Modeler, a partir de uma tabela achatada (flattened table) fornecida pela empresa, contendo informações sobre pedidos, clientes, localizações e avaliações. 
 
 A modelagem Snowflake foi adotada para reduzir a redundância e garantir maior eficiência nas consultas analíticas.
 
@@ -42,7 +42,7 @@ As datas foram tratadas como dimensões de múltiplos papéis (Role-Playing Dime
 <br><br>
 O repositório contém os seguintes arquivos:
 
-📄 Modelo Snowflake.pdf → Diagrama do modelo dimensional.
+📄 Modelo Snowflake.pdf → Diagrama do modelo dimensional, gerado no Oracle Data Modeler.
 
 🗄️ cria.sql → Script de criação do banco de dados e tabelas dimensionais.
 
