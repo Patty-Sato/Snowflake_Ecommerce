@@ -37,6 +37,8 @@ Hierarquias foram respeitadas para permitir análises em diferentes níveis (ex:
 
 As datas foram tratadas como dimensões de múltiplos papéis (Role-Playing Dimensions), separando Data do Pedido, Data Prevista de Entrega e Data Real de Entrega.
 
+🔗 [Visualizar a Modelagem](https://github.com/Patty-Sato/Snowflake_Ecommerce/blob/main/Modelo%20Snowflake.pdf)
+
 <br><br>
 📜 **Estrutura do Projeto**
 <br><br>
